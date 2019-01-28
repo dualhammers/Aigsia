@@ -1,8 +1,6 @@
----
-description: You have arrived the Aigsia of Matthew Duhamel
----
-
 # Entry
+
+## You have arrived at workshop and aigsia of Matthew Duhamel
 
 ![](.gitbook/assets/froachsytest.png)
 
