@@ -1,6 +1,6 @@
 # Entry
 
-## You have arrived at workshop and aigsia of Matthew Duhamel
+## You have arrived at the library of Matthew Duhamel
 
 ![](.gitbook/assets/froachsytest.png)
 
