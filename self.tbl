@@ -1,18 +1,19 @@
 /// z(x) zazen minutes
 /// p(x) physical activity minutes
-/// d (1-4) healthy eating (Whole food plant based, low oil, no binging, on meal plan)
+/// d (0-15) (low oil, no binging, vegan, daily dozen)
 /// w(X) weight KG
 /// mj(1/0) marijuana use
 /// al (1/0) alcohol use
 /// dp(X) mood level
 /// ax(X) anxiety events
 
-191212 z12  p35  mj1       ax2
-191211 z0   p18  mj1
-191210 z12  p42  mj1
-191209 z12  p26  mj1  
-191208 z12  p42  mj1
-191207 z0   p50  mj1  dp3  ax7
+191219 z12  p30  d12    mj1  al0
+191212 z12  p35         mj1  al0       ax2
+191211 z0   p18         mj1  al0
+191210 z12  p42         mj1  al0
+191209 z12  p26         mj1  al0
+191208 z12  p42         mj1  al0
+191207 z0   p50         mj1  al0  dp3  ax7
 191206 z0   p110 
 191205 z20  p53  
 191204 z12  p20  
