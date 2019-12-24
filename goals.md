@@ -1,17 +1,20 @@
-# The Treadmill - Goals
+# Goals
 
-Goals give life focus and may make life miserable
+## Internal
 
- misery is inevitable
+### Develop bodily health and fitness
+**Status:** Preparing to bike the missoula loop
 
-Death, Flow, Numbness - all the absence of ego 
+### Strengthen Focus & Mental Faculties
+**Status:** Working towards a full release of my exocortex
 
-1. The possible defines our goals (for the most part)
-2. Goals direct our flow
-3. accomplishment shapes our view of the possible
-4. back to 1.
+### Become a Polyglot
+**Status:** Teaching myself to read THE LITTLE PRINCE in French
 
-Goals are a - Healthier path towards a lack of ego: focus on flow state vs numbing out
+## External
 
-The accomplishment part of a goal is only a temporary pleasure
- What matters is the change in our mental model of the world - the possible
+### Minimize Suffering
+**Status:** Adopted a low-waste vegan lifestyle.
+
+### Share process of growth to faciliate others
+**Status:** Documenting my mental health journey.
