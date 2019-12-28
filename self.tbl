@@ -1,41 +1,44 @@
-/// z(x) zazen minutes
+/// zazen(x) zazen minutes
 /// p(x) physical activity minutes
-/// d (0-15) (low oil, no binging, vegan, daily dozen)
+/// d (1-9) (low oil, no binging, vegan, daily dozen)
 /// w(X) weight KG
 /// mj(1/0) marijuana use
 /// al (1/0) alcohol use
 /// dp(X) mood level
 /// ax(X) anxiety events
 
-191225 z0   p5   d13    mj0  al0
-191221 z24  p20  d11    mj1  al0
-191220 z12  p20  d12    mj1  al1
-191219 z12  p30  d12    mj1  al0
-191212 z12  p35         mj1  al0       ax2
-191211 z0   p18         mj1  al0
-191210 z12  p42         mj1  al0
-191209 z12  p26         mj1  al0
-191208 z12  p42         mj1  al0
-191207 z0   p50         mj1  al0  dp3  ax7
-191206 z0   p110 
-191205 z20  p53  
-191204 z12  p20  
-191202 z12  p60  
-191201 z12  p22  
-191130 z0   p26  
-191129 z0   p53  
-191127 z0   p0   
-191126 z0   p0   
-191125 z0   p20  
-191124 z0   p10  
-191123 z12  p60  
-191122 z12  p20  
-191121 z12  p40  
-191119 z00  p71  
-191118 z00  p60  
-191113 z00  p20  
-191112 z00  p00  
-191111 z11  p20    
-191110 z10  p43      
-191109 z00  p49  
-191105 z10  p83    
+DATE    ZEN  PHY  WGT  MAJ  ALC
+191227  z0   p0   d4   mj1  al0
+191226  z0   p20  d4   mj1  al1
+191225  z0   p5   d8   mj0  al0
+191221  z24  p20  d7   mj1  al0
+191220  z12  p20  d7   mj1  al1
+191219  z12  p30  d7   mj1  al0
+191212  z12  p35       mj1  al0       ax2
+191211  z0   p18       mj1  al0
+191210  z12  p42       mj1  al0
+191209  z12  p26       mj1  al0
+191208  z12  p42       mj1  al0
+191207  z0   p50       mj1  al0  dp3  ax7
+191206  z0   p110 
+191205  z20  p53  
+191204  z12  p20  
+191202  z12  p60  
+191201  z12  p22  
+191130  z0   p26  
+191129  z0   p53  
+191127  z0   p0   
+191126  z0   p0   
+191125  z0   p20  
+191124  z0   p10  
+191123  z12  p60  
+191122  z12  p20  
+191121  z12  p40  
+191119  z00  p71  
+191118  z00  p60  
+191113  z00  p20  
+191112  z00  p00  
+191111  z11  p20    
+191110  z10  p43      
+191109  z00  p49  
+191105  z10  p83    
