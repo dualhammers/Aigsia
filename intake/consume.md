@@ -19,19 +19,35 @@
   - Unconstrained
   - Dishwasher Memoir
   - Peter Hamilton
+  - Murder on the Orient Express
 
 ## Games
   - Link Between Worlds
   - Slay the Spire
   - Dead Cells
   - bloodstained
+  - The last Express
 
 ## Film 
   - Uncut Gems
+  - Tree of Life
+  - Good Times
   - The end of the fucking world
   - Knives Out
   - 1917
   - Lawrence of Arabia
   - Mr Rogers
+  - Selected Shorts: At the Anarchist Convetion
+  - Silence 
+  - High Rise
+  - Mother
+  - I am the pretty little thing that lives in the house
+  - Burning
+  - Enemy
+  - Phantom THread
+  - Unsane
+  - Heredity
+  - The Last 
+
 
 
