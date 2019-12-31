@@ -52,6 +52,8 @@
 ### Films
    - Too Wong Foo, Thanks for Everything
    - Scrooged
+   - Crimson Peak
+   - *Mom and Dad*
    - Grave Encounters
    - The Irishman
    - 400 Blows
