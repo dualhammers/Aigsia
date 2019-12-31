@@ -12,6 +12,8 @@ BACKPACK:
 
 
 COMPUTER:
+  - install win10
+  - install linux (mint, nixos)
   - Remote add to tracking Repo via phone
   - Download background visualizer
   - install color picker
