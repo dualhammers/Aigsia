@@ -46,6 +46,10 @@
    - Detroit: Become Human
    - The Last of Us
 
+## 2020
+
+### Films
+   - Zodiac
    
 ## 2019
 
