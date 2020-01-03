@@ -8,6 +8,12 @@
   - Marjorie De Muynck
   - UMA - Wednesday
   - Waking Life OST
+  - Sex Pistols
+  - Pewches
+  - Buzzcocks
+  - The Clash
+  - X-Ray Spex
+  - The Ballad of Chasey Lain
 
 ## Books: 
   - Trout Fishing in America
@@ -49,5 +55,10 @@
   - Heredity
   - The Last 
 
+### Films with Heather
+  -  Brewsters millions
+  - Hear no evil see no evil 
+  - The Greatest Gift
+  - Adventures in Babysitting
 
 
