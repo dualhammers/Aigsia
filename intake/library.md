@@ -50,6 +50,12 @@
 
 ### Films
    - Zodiac
+
+### Music
+   - Tohishi Katomatsu
+     - Sea is a Lady
+     - Touch and Go
+   - Casseopia
    
 ## 2019
 
