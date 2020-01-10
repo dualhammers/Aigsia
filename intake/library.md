@@ -50,12 +50,14 @@
 
 ### Films
    - Zodiac
+   - *One Cut of the Dead*
 
 ### Music
    - Tohishi Katomatsu
      - Sea is a Lady
      - Touch and Go
    - Casseopia
+   - *Talking Heads - Stop Making Sense*
    
 ## 2019
 
