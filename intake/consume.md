@@ -1,5 +1,8 @@
 # Things to consume
 
+## TV
+- how to get away with murder
+
 ## Music:
 
   - Vitamin Z
@@ -17,6 +20,7 @@
 
 ## Books: 
   - Trout Fishing in America
+  - my struggle
   - PK Dick - Flow my Tears
   - Robert Sapolsky - Zebra
   - Chaos
@@ -37,6 +41,8 @@
 ## Film 
   - Uncut Gems
   - Tree of Life
+  - Mr Smith goes to Washington
+  - beginners
   - Good Times
   - The end of the fucking world
   - Knives Out
