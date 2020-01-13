@@ -85,6 +85,10 @@
    - **Greener Grass**
    - **Parasite**
    - **The Lighthouse**
+   - Lady Snowblood
+   - my name is dolomite
+   - sony China's streetfighter 
+   - Rashomon
 
 ### TV
    - **Maniac**
