@@ -4,7 +4,6 @@
 - how to get away with murder
 
 ## Music:
-
   - Vitamin Z
   - Trance Mission
   - Kevin Yost
@@ -40,6 +39,12 @@
 
 ## Film 
   - Uncut Gems
+  - The Lobster
+  - Attack the Block
+  - The Act of Killing
+  - Resolution
+  - Upstream Color
+  - Hereditary
   - Tree of Life
   - Mr Smith goes to Washington
   - beginners
