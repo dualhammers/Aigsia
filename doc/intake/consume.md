@@ -1,5 +1,8 @@
 # Things to consume
 
+## TV
+- how to get away with murder
+
 ## Music:
   - Vitamin Z
   - Trance Mission
@@ -7,9 +10,16 @@
   - Marjorie De Muynck
   - UMA - Wednesday
   - Waking Life OST
+  - Sex Pistols
+  - Pewches
+  - Buzzcocks
+  - The Clash
+  - X-Ray Spex
+  - The Ballad of Chasey Lain
 
 ## Books: 
   - Trout Fishing in America
+  - my struggle
   - PK Dick - Flow my Tears
   - Robert Sapolsky - Zebra
   - Chaos
@@ -36,6 +46,8 @@
   - Upstream Color
   - Hereditary
   - Tree of Life
+  - Mr Smith goes to Washington
+  - beginners
   - Good Times
   - The end of the fucking world
   - Knives Out
@@ -54,5 +66,10 @@
   - Heredity
   - The Last 
 
+### Films with Heather
+  -  Brewsters millions
+  - Hear no evil see no evil 
+  - The Greatest Gift
+  - Adventures in Babysitting
 
 

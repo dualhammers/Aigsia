@@ -50,12 +50,29 @@
    - Detroit: Become Human
    - The Last of Us
 
+## 2020
+
+### Films
+   - Zodiac
+   - *One Cut of the Dead*
+
+### TV
+   - Witcher
+
+### Music
+   - Tohishi Katomatsu
+     - Sea is a Lady
+     - Touch and Go
+   - Casseopia
+   - *Talking Heads - Stop Making Sense*
    
 ## 2019
 
 ### Films
    - Too Wong Foo, Thanks for Everything
    - Scrooged
+   - Crimson Peak
+   - *Mom and Dad*
    - Grave Encounters
    - The Irishman
    - 400 Blows
