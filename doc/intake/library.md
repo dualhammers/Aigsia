@@ -63,8 +63,12 @@
    - Tohishi Katomatsu
      - Sea is a Lady
      - Touch and Go
+     - Summertime Romance
+     - City on the Shre
    - Casseopia
    - *Talking Heads - Stop Making Sense*
+   - Chet Baker Quartet ‎– No Problem 
+   - Haruomi Hosono - Philharmony
    
 ## 2019
 
