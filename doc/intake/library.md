@@ -60,6 +60,8 @@
    - Witcher
 
 ### Music
+   - Starbow - Starbow I (1983)
+   - Yukihiro Takahashi - Neuromantic (1981)
    - Tohishi Katomatsu
      - Sea is a Lady
      - Touch and Go
