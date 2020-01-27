@@ -71,6 +71,10 @@
    - *Talking Heads - Stop Making Sense*
    - Chet Baker Quartet ‎– No Problem 
    - Haruomi Hosono - Philharmony
+   - Anri - Coool 
+   - Junko Ohashi 大橋純子 ー MAGICAL Album
+   - HI-FI SET(ハイ・ファイ・セット) / HI-FI BLEND
+   - Anri - Bi・Ki・Ni 
    
 ## 2019
 
