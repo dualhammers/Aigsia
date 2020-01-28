@@ -8,6 +8,8 @@
 /// ax(X) anxiety events
 
 DATE    ZEN  PHY  DET  MAJ  ALC
+200120   0   60   3    1    1
+200119   0   60   3    1    0
 200118   0   60   3    1    1
 200117   0   50   5    1    0
 200116   0   50   4    1    0
