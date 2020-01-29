@@ -1,13 +1,14 @@
 /// zazen(x) zazen minutes
 /// p(x) physical activity minutes
-/// d (1-9) (low oil, no binging, vegan, daily dozen)
+/// d (1-9) (low oil, no binging, daily dozen)
 /// w(X) weight KG
 /// mj(1/0) marijuana use
 /// al (1/0) alcohol use
 /// dp(X) mood level
 /// ax(X) anxiety events
 
-DATE    ZEN  PHY  DET  MAJ  ALC
+DATE    ZEN  PHY  DET  MAJ  ALC  ANX  MUD  
+200128   0   62   1    1    0     2    7
 200120   0   60   3    1    1
 200119   0   60   3    1    0
 200118   0   60   3    1    1
@@ -29,37 +30,37 @@ DATE    ZEN  PHY  DET  MAJ  ALC
 191230  12   35   5    1    0
 191229  12   19   4    1    0
 191228  12   0    4    1    0
-191227  z0   p0   d4   mj1  al0
-191226  z0   p20  d4   mj1  al1
-191225  z0   p5   d8   mj0  al0
-191221  z24  p20  d7   mj1  al0
-191220  z12  p20  d7   mj1  al1
-191219  z12  p30  d7   mj1  al0
-191212  z12  p35       mj1  al0       ax2
-191211  z0   p18       mj1  al0
-191210  z12  p42       mj1  al0
-191209  z12  p26       mj1  al0
-191208  z12  p42       mj1  al0
-191207  z0   p50       mj1  al0  dp3  ax7
-191206  z0   p110 
-191205  z20  p53  
-191204  z12  p20  
-191202  z12  p60  
-191201  z12  p22  
-191130  z0   p26  
-191129  z0   p53  
-191127  z0   p0   
-191126  z0   p0   
-191125  z0   p20  
-191124  z0   p10  
-191123  z12  p60  
-191122  z12  p20  
-191121  z12  p40  
-191119  z00  p71  
-191118  z00  p60  
-191113  z00  p20  
-191112  z00  p00  
-191111  z11  p20    
-191110  z10  p43      
-191109  z00  p49  
-191105  z10  p83    
+191227   0   p0   d4   mj1  al0
+191226   0   p20  d4   mj1  al1
+191225   0   p5   d8   mj0  al0
+191221  24  p20  d7   mj1  al0
+191220  12  p20  d7   mj1  al1
+191219  12  p30  d7   mj1  al0
+191212  12  p35       mj1  al0       ax2
+191211   0   p18       mj1  al0
+191210  12  p42       mj1  al0
+191209  12  p26       mj1  al0
+191208  12  p42       mj1  al0
+191207   0   p50       mj1  al0  dp3  ax7
+191206   0   p110 
+191205  20  p53  
+191204  12  p20  
+191202  12  p60  
+191201  12  p22  
+191130   0   p26  
+191129   0   p53  
+191127   0   p0   
+191126   0   p0   
+191125   0   p20  
+191124   0   p10  
+191123  12  p60  
+191122  12  p20  
+191121  12  p40  
+191119   0  p71  
+191118   0  p60  
+191113   0  p20  
+191112   0  p00  
+191111  11  p20    
+191110  10  p43      
+191109   0  p49  
+191105  10  p83    
