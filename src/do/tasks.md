@@ -14,9 +14,7 @@ BACKPACK:
 COMPUTER:
   - install win10
   - install linux (mint, nixos)
-  - Remote add to tracking Repo via phone
-  - Download background visualizer
-  - install color picker
+  - Download background visualizerr
   - Replace screenshot program
   - Theme OS/Apps
   - Try HUGO
@@ -58,7 +56,6 @@ PATREON:
 
 
 XMAS:
-  - Gift for Heather
   - Gift for Scott
 
 

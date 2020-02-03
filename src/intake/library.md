@@ -71,16 +71,21 @@
      - Summertime Romance
      - City on the Shre
    - Casseopia
-   - **Talking Heads - Stop Making Sense**
+   - **Talking Heads**
+     - **Stop Making Sense**
    - Chet Baker Quartet ‎– No Problem 
    - Haruomi Hosono - Philharmony
-   - Anri - Coool 
    - Junko Ohashi 大橋純子 ー MAGICAL Album
    - HI-FI SET(ハイ・ファイ・セット) / HI-FI BLEND 
-   - Anri 杏里 ‎
+   - **Taeko Ohnuki**
+     - **Love Trip**
+   - **Anri**
      - Heaven Beach
-     - Bi・Ki・Ni
+     - **Bi・Ki・Ni**
      - Wave
+     - Cool
+   - Taeko Ohnuki
+     - Sunshower
 
 ---
    
