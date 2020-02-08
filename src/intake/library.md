@@ -58,6 +58,8 @@
 ### Films
    - Zodiac
    - **One Cut of the Dead**
+   - Lady Snowblood
+   - Manhunter
 
 ### TV
    - Witcher
