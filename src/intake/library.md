@@ -60,6 +60,8 @@
    - **One Cut of the Dead**
    - Lady Snowblood
    - Manhunter
+   - **Parasite**
+   - Missippi Grind
 
 ### TV
    - Witcher
@@ -86,8 +88,9 @@
      - **Bi・Ki・Ni**
      - Wave
      - Cool
-   - Taeko Ohnuki
+     - Taeko Ohnuki
      - Sunshower
+     - **Blue Ruin**
 
 ---
    
@@ -118,6 +121,8 @@
    - my name is dolomite
    - sony China's streetfighter 
    - Rashomon
+   - **I dont feel at home in this world anymore**
+   - The Ballad of Buster Scruggs
 
 ### TV
    - **Maniac**
