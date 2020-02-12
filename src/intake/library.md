@@ -22,6 +22,7 @@
    - Good Will Hunting
    - Alien (1,2,3,4,5,6)
    - Star Trek (1-13)
+   - **Blue Ruin**
    - **Blade Runner**
    - **Blade Runner: 2049**
    - Drive
@@ -62,6 +63,7 @@
    - Manhunter
    - **Parasite**
    - Missippi Grind
+   - High and Low
 
 ### TV
    - Witcher
