@@ -22,6 +22,7 @@
    - Good Will Hunting
    - Alien (1,2,3,4,5,6)
    - Star Trek (1-13)
+   - **Blue Ruin**
    - **Blade Runner**
    - **Blade Runner: 2049**
    - Drive
@@ -58,6 +59,11 @@
 ### Films
    - Zodiac
    - **One Cut of the Dead**
+   - Lady Snowblood
+   - Manhunter
+   - **Parasite**
+   - Missippi Grind
+   - High and Low
 
 ### TV
    - Witcher
@@ -84,10 +90,14 @@
      - **Bi・Ki・Ni**
      - Wave
      - Cool
-   - Taeko Ohnuki
+     - Taeko Ohnuki
      - Sunshower
+<<<<<<< HEAD
    - Miho Nakayama
      - Summer Breeze
+=======
+     - **Blue Ruin**
+>>>>>>> 2073ea665add5fa6f26ce085249676dc92b9dfd7
 
 ---
    
@@ -118,6 +128,8 @@
    - my name is dolomite
    - sony China's streetfighter 
    - Rashomon
+   - **I dont feel at home in this world anymore**
+   - The Ballad of Buster Scruggs
 
 ### TV
    - **Maniac**
