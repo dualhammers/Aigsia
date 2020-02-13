@@ -86,6 +86,8 @@
      - Cool
    - Taeko Ohnuki
      - Sunshower
+   - Miho Nakayama
+     - Summer Breeze
 
 ---
    
