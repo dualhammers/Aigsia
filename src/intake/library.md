@@ -64,6 +64,12 @@
    - **Parasite**
    - Missippi Grind
    - High and Low
+   - **Blue Ruin**
+   - **Isle of Dogs**
+   - Ninja Scroll
+   - Red Beard
+   - Mouth of Madness
+   - Manhunter
 
 ### TV
    - Witcher
@@ -96,7 +102,7 @@
    - Miho Nakayama
      - Summer Breeze
 =======
-     - **Blue Ruin**
+     
 >>>>>>> 2073ea665add5fa6f26ce085249676dc92b9dfd7
 
 ---
