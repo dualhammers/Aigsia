@@ -123,6 +123,9 @@
    - Dances with Wolves
    - The Postman
    - Kingsman (1,2)
+   - The Magnificient Ambersons
+   - The Dead Don't Die
+   - Velvet Buzzsaw
    - It Comes at Night
    - Grave Encouners
    - The Last Black Man in San Francisco
