@@ -70,6 +70,9 @@
    - Red Beard
    - Mouth of Madness
    - Manhunter
+   - I Am Mother
+   - Lady Snowblood
+   - Dolemite is my Name
 
 ### TV
    - Witcher
@@ -98,12 +101,8 @@
      - Cool
      - Taeko Ohnuki
      - Sunshower
-<<<<<<< HEAD
    - Miho Nakayama
      - Summer Breeze
-=======
-     
->>>>>>> 2073ea665add5fa6f26ce085249676dc92b9dfd7
 
 ---
    
@@ -111,9 +110,10 @@
 
 ### Films
    - Too Wong Foo, Thanks for Everything
+   - The Dark Knight Returns
    - Scrooged
    - Crimson Peak
-   - *Mom and Dad*
+   - **Mom and Dad**
    - Grave Encounters
    - The Irishman
    - 400 Blows
@@ -134,9 +134,6 @@
    - **Parasite**
    - **The Lighthouse**
    - Lady Snowblood
-   - my name is dolomite
-   - sony China's streetfighter 
-   - Rashomon
    - **I dont feel at home in this world anymore**
    - The Ballad of Buster Scruggs
 

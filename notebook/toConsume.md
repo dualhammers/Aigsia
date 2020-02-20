@@ -1,7 +1,8 @@
 # Things to consume
 
 ## TV
-- how to get away with murder
+- Halt and Catch Fire
+- Mr Robot
 
 ## Music:
   - Vitamin Z
@@ -39,6 +40,7 @@
 
 ## Film 
   - Uncut Gems
+  - Queen and Slim
   - The Lobster
   - Attack the Block
   - The Act of Killing
