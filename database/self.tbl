@@ -7,8 +7,9 @@
 /// dp(X) mood level
 /// ax(X) anxiety events
 
-DATE    ZEN  PHY  DET  MAJ  ALC  ANX  MUD
-200220   0   40   4    1    0     6    5
+DATE    ZEN  PHY  DET  MAJ  ALC  ANX  MU
+200220   0   44   3    1    0     6    4
+200219   0   40   4    1    0     6    5
 200217   0   30   3    1    1     6    5
 200215   0   20   3    0    1     8    5
 200212   0   30   3    1    1     4    5
