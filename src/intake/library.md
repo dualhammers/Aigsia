@@ -2,6 +2,7 @@
 
 ### Films
    - **Inside Llwelyn Davis**
+   - **Angel Heart**
    - Snowpiercer
    - Drive
    - *The World's End*
@@ -73,6 +74,9 @@
    - I Am Mother
    - Lady Snowblood
    - Dolemite is my Name
+   - **Under the Silver Lake**
+   
+  
 
 ### TV
    - Witcher
