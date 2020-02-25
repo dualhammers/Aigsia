@@ -8,6 +8,7 @@
 /// ax(X) anxiety events
 
 DATE    ZEN  PHY  DET  MAJ  ALC  ANX  MU
+200224   0   20   1    1    0     4    5
 200223   0   30   2    1    0     6      
 200222   0   62   1    1    0     7    6
 200221   0   60   6    1    1     2    4s
