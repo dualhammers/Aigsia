@@ -1,0 +1,60 @@
+TOME STRUCTURE
+
+DATE
+DAILY LOG
+(day/30)HABIT
+STATS (zenMin.physActivity.dietRank.anxiety.mood)
+
+JOURNAL KEY
+- note
+x finished (POMODOROS DONE)
+•  task to do
++ event
+! modifier means add to website (!+ Released game)
+* important
+
+HASHTAGS LIST
+#? questions
+#vg video games
+#movie
+#uwods - upon winds of distant suns project
+#freelance -  work
+#input - any intake of created things
+///
+
+///taskList
+• backup fish config
+• add git commit git push script
+• backup music
+• backup linux files
+• install wimdows 10
+• install eOS
+
+200305
+0.2.1.3.6
+x Sword of Doom #movies #input
++ call with Alice (4)
+
+
+200302
+312  AIGSIA  planning 
+(1) #habit_stretch
+0.29.1.5.4
+x  Sent message to Peter updating him on return to work date #uwods #freelance
+x  Migrate notebook to new month (1)
++  Played Dino Crisis with Mike and Steve #input #memory #vg
+-  can PO BOx accept oversized packages? #?
+
+200304
+(3) #habit_stretch
+0.20.1.4.6
++ coffee and dinner with Sara
+- Jessica messaged me again after saying i didnt fit in her life. I asked for a hookup instead of lunch
+"life is like a mandala" -heather #quotes
+"Validation is not the greatest motivation but it's a motivator nonetheless. You can use it to reach your goals if the goal itself is not validation" -Devine #quotes
+- Katherine and I are getting closer
+- Brina wants me to visit for a month
+x jojo rabbit #movie #input
+
+
+
