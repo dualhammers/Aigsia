@@ -27,6 +27,14 @@ HASHTAGS LIST
 • backup fish config
 • add git commit git push script
 
+200311
+0.71.1.2.5
+x picked up mailbox keys
+x learned about mouse bindings in linux
+x sanders victory captain kickoff
+x bought knit beanie
++ played Division 2 with mike #vg
+
 200308
 0.60.3.4.7
 
