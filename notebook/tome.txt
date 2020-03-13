@@ -27,6 +27,13 @@ HASHTAGS LIST
 • backup fish config
 • add git commit git push script
 
+200312
+0.05.1.6.4
+227 DITTO   2
+- drcided to phone bank for Sanders but not lead
+
+- 
+
 200311
 0.71.1.2.5
 x picked up mailbox keys
