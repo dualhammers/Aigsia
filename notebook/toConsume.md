@@ -40,6 +40,8 @@
 
 ## Film 
   - Uncut Gems
+  - The Hidden
+  - Matinee
   - Queen and Slim
   - The Lobster
   - Attack the Block

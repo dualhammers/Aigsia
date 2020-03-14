@@ -27,6 +27,12 @@ HASHTAGS LIST
 • backup fish config
 • add git commit git push script
 
+200313
+0.22.1.2.4
+217 DITTO 1
+x calisthenics #exercise #habits
+x Scanners #movie
+
 200312
 0.05.1.6.4
 227 DITTO   2
