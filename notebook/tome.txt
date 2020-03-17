@@ -26,6 +26,12 @@ HASHTAGS LIST
 ///taskList
 • backup fish config
 • add git commit git push script
+• move pictures, music, etc to portable drive
+
+200316
+25.5.1.3.3
+237 DITTO 3
+- reduce to 8 #work
 
 200315
 0.30.1.1.4
@@ -52,8 +58,6 @@ x Scanners #movie
 0.05.1.6.4
 227 DITTO   2
 - drcided to phone bank for Sanders but not lead
-
-- 
 
 200311
 0.71.1.2.5
