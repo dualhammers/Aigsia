@@ -8,7 +8,7 @@ STATS (zenMin.physActivity.dietRank.anxiety.mood)
 JOURNAL KEY
 - note
 x finished (POMODOROS DONE)
-•  task to do
+=  task to do
 + event
 ! modifier means add to website (!+ Released game)
 * important
@@ -27,8 +27,19 @@ HASHTAGS LIST
 • backup fish config
 • add git commit git push script
 • move pictures, music, etc to portable drive
+= change default nnn editor
+= get 5htp
+= merge mesh lib
+= change catfish preview size
 
-200316
+200317
+0.0.9.6.3
+297 DITTO 5
+- chatted a lot midday ignoring timers
+"the more ypu indulge in things you dont enjoy the better you become at bringing about things you dont enjoy" devine #quotes
+"my thinking has always been i will pick 2-3 fun things I wanna do while im alive and spend my time heading that way just for fun. But I dont spend time walking away from this visualization ever and my tools are there to help me correct" devine #quotes
+
+200316 
 25.5.1.3.3
 237 DITTO 3
 - reduce to 8 #work
