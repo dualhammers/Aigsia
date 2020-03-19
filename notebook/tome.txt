@@ -31,6 +31,33 @@ HASHTAGS LIST
 = get 5htp
 = merge mesh lib
 = change catfish preview size
+= line up 2020 goals with broader goals
+= clean mflb
+= pay brock 3,000
+= retheme manjaro
+= update fish as main editor
+= get speed stitcher
+
+///consumption list
+#movie
+tale of zatoichi
+fire in the sky
+
+#books
+the art of gathering
+
+#games
+a short hike
+
+///log
+200318
+0.20.1.2.4
+257 DITTO 5
+x dark skies #movie
+x watched a short hike lecture
+- scrum board to focus tasks
+- deadlines and shortcuts get done
+- one thing a day and 16 sets of glasses
 
 200317
 0.0.9.6.3
