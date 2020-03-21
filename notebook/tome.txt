@@ -21,6 +21,7 @@ HASHTAGS LIST
 #freelance -  work
 #input - any intake of created things
 #quotes
+#chapbook - poems 
 ///
 
 ///taskList
@@ -37,6 +38,8 @@ HASHTAGS LIST
 = retheme manjaro
 = update fish as main editor
 = get speed stitcher
+= get deloria album
+
 
 ///consumption list
 #movie
@@ -49,7 +52,21 @@ the art of gathering
 #games
 a short hike
 
+///ideas
+! tool to merge mastodon with private website journal
+
 ///log
+200320
+25.20.1.2.5
+247 DITTO 10
+ - Give away things you don't need
+ - expose myself to truths I have not been willing to see
+ - I was tired by 6pm, and did 10 sets. I should have done my poetry writing in the morning and worked after htat. This is what I will do tomorrow.
+ - I need to improve the speed at which I task switch. Focus on that tomorrow
+
+
+
+200319
 0.5.8.2.6
 224 AIGSIA
 - erica s is going back to her parents ranch
