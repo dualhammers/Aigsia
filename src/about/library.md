@@ -1,3 +1,105 @@
+# The Library
+
+A collection of creative works consumed. Works that left a lasting impressinon or sparked a sense of joy shortly aftweards are in **bold**.
+
+
+
+## 2020
+
+### Films
+   - Zodiac
+   - **One Cut of the Dead**
+   - Lady Snowblood
+   - Manhunter
+   - **Parasite**
+   - Missippi Grind
+   - High and Low
+   - **Blue Ruin**
+   - **Isle of Dogs**
+   - Ninja Scroll
+   - Red Beard
+   - Mouth of Madness
+   - Manhunter
+   - I Am Mother
+   - Lady Snowblood
+   - Dolemite is my Name
+   - **Under the Silver Lake**
+
+### TV
+   - Witcher
+
+### Music
+   - Starbow - Starbow I (1983)
+   - Yukihiro Takahashi - Neuromantic (1981)
+   - Tohishi Katomatsu
+     - Sea is a Lady
+     - **Touch and Go**
+     - Summertime Romance
+     - City on the Shre
+   - Casseopia
+   - **Talking Heads**
+     - **Stop Making Sense**
+   - Chet Baker Quartet ‎– No Problem 
+   - Haruomi Hosono - Philharmony
+   - Junko Ohashi 大橋純子 ー MAGICAL Album
+   - HI-FI SET(ハイ・ファイ・セット) / HI-FI BLEND 
+   - **Taeko Ohnuki**
+     - **Love Trip**
+   - **Anri**
+     - Heaven Beach
+     - **Bi・Ki・Ni**
+     - Wave
+     - Cool
+     - Taeko Ohnuki
+     - Sunshower
+   - Miho Nakayama
+     - Summer Breeze
+
+
+---
+   
+## 2019
+
+### Films
+   - Too Wong Foo, Thanks for Everything
+   - The Dark Knight Returns
+   - Scrooged
+   - Crimson Peak
+   - **Mom and Dad**
+   - Grave Encounters
+   - The Irishman
+   - 400 Blows
+   - Sorry to Bother You
+   - Waking Life
+   - **eXistenz**
+   - Dances with Wolves
+   - The Postman
+   - Kingsman (1,2)
+   - The Magnificient Ambersons
+   - The Dead Don't Die
+   - Velvet Buzzsaw
+   - It Comes at Night
+   - Grave Encouners
+   - The Last Black Man in San Francisco
+   - Miracle Mile
+   - **Greener Grass**
+   - **Parasite**
+   - **The Lighthouse**
+   - Lady Snowblood
+   - **I dont feel at home in this world anymore**
+   - The Ballad of Buster Scruggs
+
+### TV
+   - **Maniac**
+
+### GAMES
+   - **Total War: Warhammer 2**
+
+### Music
+   - **Jun Fukamachi - Midnight Drive**
+
+---
+
 ## Pre 2019
 
 ### Films
@@ -54,98 +156,3 @@
    - The Last of Us
 
 ---
-
-## 2020
-
-### Films
-   - Zodiac
-   - **One Cut of the Dead**
-   - Lady Snowblood
-   - Manhunter
-   - **Parasite**
-   - Missippi Grind
-   - High and Low
-   - **Blue Ruin**
-   - **Isle of Dogs**
-   - Ninja Scroll
-   - Red Beard
-   - Mouth of Madness
-   - Manhunter
-   - I Am Mother
-   - Lady Snowblood
-   - Dolemite is my Name
-   - **Under the Silver Lake**
-   
-  
-
-### TV
-   - Witcher
-
-### Music
-   - Starbow - Starbow I (1983)
-   - Yukihiro Takahashi - Neuromantic (1981)
-   - Tohishi Katomatsu
-     - Sea is a Lady
-     - **Touch and Go**
-     - Summertime Romance
-     - City on the Shre
-   - Casseopia
-   - **Talking Heads**
-     - **Stop Making Sense**
-   - Chet Baker Quartet ‎– No Problem 
-   - Haruomi Hosono - Philharmony
-   - Junko Ohashi 大橋純子 ー MAGICAL Album
-   - HI-FI SET(ハイ・ファイ・セット) / HI-FI BLEND 
-   - **Taeko Ohnuki**
-     - **Love Trip**
-   - **Anri**
-     - Heaven Beach
-     - **Bi・Ki・Ni**
-     - Wave
-     - Cool
-     - Taeko Ohnuki
-     - Sunshower
-   - Miho Nakayama
-     - Summer Breeze
-
----
-   
-## 2019
-
-### Films
-   - Too Wong Foo, Thanks for Everything
-   - The Dark Knight Returns
-   - Scrooged
-   - Crimson Peak
-   - **Mom and Dad**
-   - Grave Encounters
-   - The Irishman
-   - 400 Blows
-   - Sorry to Bother You
-   - Waking Life
-   - **eXistenz**
-   - Dances with Wolves
-   - The Postman
-   - Kingsman (1,2)
-   - The Magnificient Ambersons
-   - The Dead Don't Die
-   - Velvet Buzzsaw
-   - It Comes at Night
-   - Grave Encouners
-   - The Last Black Man in San Francisco
-   - Miracle Mile
-   - **Greener Grass**
-   - **Parasite**
-   - **The Lighthouse**
-   - Lady Snowblood
-   - **I dont feel at home in this world anymore**
-   - The Ballad of Buster Scruggs
-
-### TV
-   - **Maniac**
-
-### GAMES
-   - **Total War: Warhammer 2**
-
-### Music
-   - **Jun Fukamachi - Midnight Drive**

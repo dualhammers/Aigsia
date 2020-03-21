@@ -1,5 +1,7 @@
 # Journal Symbol Key
 
+Used in my physical journal that I carry with me throughout the day
+
 ## Main Symbols
 - · Task Todo
 - X Task Accomplished
@@ -10,6 +12,7 @@
 ## Movement Symbols
 - ">" Migrated to collection
 - "<" Sechduled in calendar
+- "^" uploaded to digital tome
 
 ## Supplementary Symbols
 - ^ Uploaded to digital document

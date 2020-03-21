@@ -17,6 +17,7 @@
   - The Clash
   - X-Ray Spex
   - The Ballad of Chasey Lain
+  - Terry Riley
 
 ## Books: 
   - Trout Fishing in America

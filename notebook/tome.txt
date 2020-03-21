@@ -24,6 +24,9 @@ HASHTAGS LIST
 #chapbook - poems 
 ///
 
+///Research
+? How does sublime text hide/reveal system work?
+
 ///taskList
 • backup fish config
 • add git commit git push script
@@ -41,7 +44,7 @@ HASHTAGS LIST
 = get deloria album
 
 
-///consumption list
+///To Consume
 #movie
 tale of zatoichi
 fire in the sky
