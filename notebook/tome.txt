@@ -59,6 +59,13 @@ a short hike
 ! tool to merge mastodon with private website journal
 
 ///log
+200323
+0.0.1.7.3
+- Do not get high in the morning before work
+- Vape cbd at lunch
+- My ability to change matters more than food that only feels good briefly
+- get something done after work
+
 200320
 25.20.1.2.5
 247 DITTO 10
