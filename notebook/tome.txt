@@ -16,6 +16,8 @@ x finished (POMODOROS DONE)
 HASHTAGS LIST
 #? questions
 #vg video games
+#task - thing to do
+#tasklist - list of things to do
 #movie
 #uwods - upon winds of distant suns project
 #freelance -  work
@@ -39,9 +41,29 @@ HASHTAGS LIST
 = clean mflb
 = pay brock 3,000
 = retheme manjaro
-= update fish as main editor
+= research source hut
+
+//// daily input #tasklist
+= Create daily list in pinboard
+= add podcasts to rss
+= create rss daily list
+
+= Plan Room layout
+
+//// Shopping list #tasklist
 = get speed stitcher
 = get deloria album
+= get soap 
+= get wash board
+= get chair
+
+
+
+= organize calendar
+= organize bookmarks
+= organize pinnboard
+= creaate RSS list
+
 
 
 ///To Consume
@@ -58,7 +80,19 @@ a short hike
 ///ideas
 ! tool to merge mastodon with private website journal
 
+
 ///log
+200322
+226  UWODS
+
+
+200321
+0.45.1.1.6
++ hooked up with Katie
+"Your most vexing drawbacks stem from mistaking a systemic art media for a series of digital commodities" - R. Hofmeier
+- MURDER LEARNED HELPLESSNESS
+x 28 Days Later #movie
+
 200320
 25.20.1.2.5
 247 DITTO 10
