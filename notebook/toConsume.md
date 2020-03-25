@@ -18,6 +18,8 @@
   - X-Ray Spex
   - The Ballad of Chasey Lain
   - Terry Riley
+  - Lidio Pimenta
+  - Uriah Heap
 
 ## Books: 
   - Trout Fishing in America
@@ -31,6 +33,7 @@
   - Dishwasher Memoir
   - Peter Hamilton
   - Murder on the Orient Express
+  - Gore Vidal - Lincoln
 
 ## Games
   - Link Between Worlds
