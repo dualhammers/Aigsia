@@ -59,6 +59,9 @@ a short hike
 ! tool to merge mastodon with private website journal
 
 ///log
+200324
+"repair, rebuild, focus on growth later" -devine
+
 200323
 0.0.1.7.3
 - Do not get high in the morning before work
