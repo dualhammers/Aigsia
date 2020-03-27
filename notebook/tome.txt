@@ -43,6 +43,11 @@ HASHTAGS LIST
 = retheme manjaro
 = research source hut
 
+//// Self-maintience #tasklist
+= fill out census
+= fill out f ood stamp paperwork
+= call about avoiding in person interview with DHHS
+
 //// daily input #tasklist
 = Create daily list in pinboard
 = add podcasts to rss
@@ -89,6 +94,13 @@ a short hike
 - quiet day
 
 200324
+0.7.1.7.2
+216 DITTO 1
+- Do not turn on phone until work / task is done
+- Emotions trigger eatinga nd keep you from task work
+- task work will be hard until it's routine. Keep at it! You will find your passion "It's soolvable"
++ argued with Erica S. she said I was patronizing
++ reconnected with Jamie R. she said she likes me but me being hurt about her dating someone else kept her from reaching out
 "repair, rebuild, focus on growth later" -devine
 
 200323
