@@ -103,6 +103,11 @@ x created workspaces in linux and organized them
 x installed epr
 x added epr to linux notebook setup 
 
+200326
+0.7.1.4.5
+237 DITTO 5
++ played with katie
+- quiet day
 
 200324
 0.7.1.7.2
@@ -139,8 +144,6 @@ x 28 Days Later #movie
  - expose myself to truths I have not been willing to see
  - I was tired by 6pm, and did 10 sets. I should have done my poetry writing in the morning and worked after htat. This is what I will do tomorrow.
  - I need to improve the speed at which I task switch. Focus on that tomorrow
-
-
 
 200319
 0.5.8.2.6
