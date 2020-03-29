@@ -10,3 +10,5 @@ The Game
 Doc Hollywood
 Downsizing
 The Ramen Girl
+As Above So Below
+Seven Pounds

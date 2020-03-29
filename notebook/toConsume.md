@@ -5,6 +5,8 @@
 - Mr Robot
 
 ## Music:
+  - Arboleda de Manzanitas - Eighty Mile Beach
+  - Air
   - Vitamin Z
   - Trance Mission
   - Kevin Yost
@@ -20,6 +22,8 @@
   - Terry Riley
   - Lidio Pimenta
   - Uriah Heap
+  - Tom Misch - Disco Yes
+  - Patrice Rushen - Forget Me Nots 
 
 ## Books: 
   - Trout Fishing in America

@@ -28,31 +28,34 @@ HASHTAGS LIST
 
 ///Research
 ? How does sublime text hide/reveal system work?
+? sync liferea RSS with android
+? how to backup dotfiles
 
-///taskList
-• backup fish config
-• add git commit git push script
-• move pictures, music, etc to portable drive
-= change default nnn editor
-= get 5htp
+///general #taskList
+= create tasklist for tome
+= backup fish config
+= add git commit git push script
+= move pictures, music, etc to portable drive
+= change default nnn editor to micro
 = merge mesh lib
 = change catfish preview size
 = line up 2020 goals with broader goals
 = clean mflb
-= pay brock 3,000
 = retheme manjaro
 = research source hut
+= Create 48hr Duffle Bag
 
 //// Self-maintience #tasklist
-= fill out census
-= fill out f ood stamp paperwork
-= call about avoiding in person interview with DHHS
+= fill out census 200330
+= fill out f ood stamp paperwork 200330
+= call about avoiding in person interview with DHHS 200330
 
 //// daily input #tasklist
 = Create daily list in pinboard
 = add podcasts to rss
 = create rss daily list
 
+//// Apartment #tasklist
 = Plan Room layout
 
 //// Shopping list #tasklist
@@ -61,15 +64,16 @@ HASHTAGS LIST
 = get soap 
 = get wash board
 = get chair
+= get workout outfit
+= Get clothes drying rack
+= get 5htp
 
-
-
+//// organizing #taskList
+= move workflowy to tome
 = organize calendar
 = organize bookmarks
 = organize pinnboard
 = creaate RSS list
-
-
 
 ///To Consume
 #movie
@@ -85,8 +89,21 @@ a short hike
 ///ideas
 ! tool to merge mastodon with private website journal
 
+/// Current #habit
+Meditate twice a day for 25 minutes
 
 ///log
+200329
+*= Ditto (rest of plate)
+*= Deploy website and set up TLD forwarding
+
+200328
+0.0.1.2.5
+x created workspaces in linux and organized them
+x installed epr
+x added epr to linux notebook setup 
+
+
 200324
 0.7.1.7.2
 216 DITTO 1
