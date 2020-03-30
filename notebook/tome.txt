@@ -91,17 +91,27 @@ a short hike
 
 /// Current #habit
 Meditate twice a day for 25 minutes
+0/30 200329
 
 ///log
-200329
+200330
 *= Ditto (rest of plate)
+*= Ditto (up to 8)
 *= Deploy website and set up TLD forwarding
+= fill out census
+= re-up snap
++ therapy at 2 with Walker
+
+200329
+0.7.1.3.4
++ played with katie #relationships
 
 200328
 0.0.1.2.5
 x created workspaces in linux and organized them
 x installed epr
 x added epr to linux notebook setup 
+x hypernormalisation #movies 
 
 200326
 0.7.1.4.5
