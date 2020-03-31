@@ -46,9 +46,10 @@ HASHTAGS LIST
 = Create 48hr Duffle Bag
 
 //// Self-maintience #tasklist
-= fill out census 200330
-= fill out f ood stamp paperwork 200330
-= call about avoiding in person interview with DHHS 200330
+= call interview with DHHS 200331
+= mail out SNAP certification 200331
+= mail out voter registration 200331
+= update direct deposit with IRS 200331
 
 //// daily input #tasklist
 = Create daily list in pinboard
@@ -91,17 +92,28 @@ a short hike
 
 /// Current #habit
 Meditate twice a day for 25 minutes
-0/30 200329
+1/30 200330
 
 ///log
-200330
-*= Ditto (rest of plate)
-*= Ditto (up to 8)
+200331
 *= Deploy website and set up TLD forwarding
-= fill out census
-= re-up snap
-+ therapy at 2 with Walker
+*= UWODS - build lannding pad
 
+200330
+25.0.5.2.4
+237 DITTO 5
+- Tried to deploy website today but it's more difficult than anticipated, not good for 8pm work. Moving to tomorrow.
+*x Ditto (rest of plate)
+  - out of work in the hopper. Finishing up and moving onto UWODS tomorrow until work returns.
+  - got 3 more units, but I didn't set that as my goal for today, but I will finish them tomorrow
+- Did not get website deployment done due to starting late
+x fill out census
+x fill out snap forms
++ #therapy at 2 with Walker
+  - Every moment you endure is a moment you are changing
+  - You have decided to care and walker sees the change
+  - You are well equiped to handle the new reality
+  
 200329
 0.7.1.3.4
 + played with katie #relationships
